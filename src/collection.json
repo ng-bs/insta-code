@@ -4,6 +4,10 @@
     "insta-code": {
       "description": "A blank schematic.",
       "factory": "./insta-code/index#runner"
+    },
+    "hutch": {
+      "description": "A blank schematic.",
+      "factory": "./hutch/index#runner"
     }
   }
 }
