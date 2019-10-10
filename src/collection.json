@@ -1,0 +1,9 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "insta-code": {
+      "description": "A blank schematic.",
+      "factory": "./insta-code/index#runner"
+    }
+  }
+}
